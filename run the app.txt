@@ -1,0 +1,17 @@
+How run the app:
+
+1- install dependens from tomel file  pip install -e .  
+2- install mongo db community for Windows 
+3- run insert_polices.py
+4- run the flask app
+5- and don't forget make the .env   
+# ── Fireworks AI ──────────────────────────────────
+FIREWORKS_API_KEY="the api here"
+ 
+# ── MongoDB ───────────────────────────────────────────────────
+# Config is read from database.ini (host, port, database)
+
+
+FLASK_ENV=development
+FLASK_DEBUG=True
+SECRET_KEY=dev-secret-key

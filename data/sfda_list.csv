@@ -1,0 +1,36 @@
+Service_Name,generic_name,atc_code,dosage_form,strength,manufacturer,registration_number,status
+Amoxicillin,Amoxicillin,J01CA04,Capsule,500mg,Gulf Pharma,SA-001234,Active
+Paracetamol,Acetaminophen,N02BE01,Tablet,500mg,Al-Jazeera Pharma,SA-002345,Active
+Metformin 500mg,Metformin HCl,A10BA02,Tablet,500mg,Tabuk Pharma,SA-003456,Active
+Metformin 1000mg,Metformin HCl,A10BA02,Tablet,1000mg,Tabuk Pharma,SA-003457,Active
+Atorvastatin,Atorvastatin Calcium,C10AA05,Tablet,10mg,Riyadh Pharma,SA-004567,Active
+Omeprazole,Omeprazole,A02BC01,Capsule,20mg,Gulf Pharma,SA-005678,Active
+Amlodipine,Amlodipine Besylate,C08CA01,Tablet,5mg,Saudi Pharma,SA-006789,Active
+Lisinopril,Lisinopril,C09AA03,Tablet,10mg,Al-Jazeera Pharma,SA-007891,Active
+Sertraline,Sertraline HCl,N06AB06,Tablet,50mg,Tabuk Pharma,SA-008901,Active
+Escitalopram,Escitalopram Oxalate,N06AB10,Tablet,10mg,Gulf Pharma,SA-009012,Active
+Insulin Glargine,Insulin Glargine,A10AE04,Injection,100IU/ml,Novo Nordisk,SA-010123,Active
+Insulin Aspart,Insulin Aspart,A10AB05,Injection,100IU/ml,Novo Nordisk,SA-010124,Active
+Salbutamol,Salbutamol Sulfate,R03AC02,Inhaler,100mcg,GSK,SA-011234,Active
+Pantoprazole,Pantoprazole Sodium,A02BC02,Tablet,40mg,Riyadh Pharma,SA-012345,Active
+Ibuprofen,Ibuprofen,M01AE01,Tablet,400mg,Saudi Pharma,SA-013456,Active
+Diclofenac,Diclofenac Sodium,M01AB05,Tablet,50mg,Al-Jazeera Pharma,SA-014567,Active
+Azithromycin,Azithromycin,J01FA10,Tablet,500mg,Tabuk Pharma,SA-015678,Active
+Ceftriaxone,Ceftriaxone Sodium,J01DD04,Injection,1g,Riyadh Pharma,SA-017890,Active
+Ciprofloxacin,Ciprofloxacin HCl,J01MA02,Tablet,500mg,Saudi Pharma,SA-018901,Active
+Warfarin,Warfarin Sodium,B01AA03,Tablet,5mg,Al-Jazeera Pharma,SA-019012,Active
+Enoxaparin,Enoxaparin Sodium,B01AB05,Injection,40mg/0.4ml,Sanofi,SA-020123,Active
+Furosemide,Furosemide,C03CA01,Tablet,40mg,Tabuk Pharma,SA-021234,Active
+Bisoprolol,Bisoprolol Fumarate,C07AB07,Tablet,5mg,Riyadh Pharma,SA-023456,Active
+Losartan,Losartan Potassium,C09CA01,Tablet,50mg,Al-Jazeera Pharma,SA-025678,Active
+Rosuvastatin,Rosuvastatin Calcium,C10AA07,Tablet,10mg,Tabuk Pharma,SA-026789,Active
+Gabapentin,Gabapentin,N03AX12,Capsule,300mg,Gulf Pharma,SA-027890,Active
+Pregabalin,Pregabalin,N03AX16,Capsule,75mg,Riyadh Pharma,SA-028901,Active
+Psychiatric Examination,N/A,N/A,Service,N/A,N/A,N/A,Active
+Psychotherapy Session,N/A,N/A,Service,N/A,N/A,N/A,Active
+Endocrinology Consultation,N/A,N/A,Service,N/A,N/A,N/A,Active
+Cardiology Consultation,N/A,N/A,Service,N/A,N/A,N/A,Active
+Obstetrics Consultation,N/A,N/A,Service,N/A,N/A,N/A,Active
+Ultrasound,N/A,N/A,Service,N/A,N/A,N/A,Active
+Physiotherapy Session,N/A,N/A,Service,N/A,N/A,N/A,Active
+ECG,N/A,N/A,Service,N/A,N/A,N/A,Active
